@@ -1,0 +1,32 @@
+
+img {width: 150px;
+}
+
+
+div {
+    color:yellow;
+    text-align: center;
+    background-color: black;
+}
+h1 {
+    color:red;
+    text-align: center;
+    background-color: black;
+}
+h2 {
+    color:red;
+    text-align: center;
+    background-color: black;
+}
+
+.Chickens {
+color:yellow;
+    text-align: center;
+    background-color: black;}
+
+div {
+  width: 400px;
+  border: 10px solid green;
+  padding: 50px;
+  margin: 20px;
+}
